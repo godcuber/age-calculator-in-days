@@ -1,0 +1,14 @@
+.container{
+	border:1px black solid;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+}
+.flexbox-container{
+	border:1px solid black;
+	display: flex;
+	padding: 10px;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+}
